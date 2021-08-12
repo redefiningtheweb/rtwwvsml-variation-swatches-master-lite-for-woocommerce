@@ -1,0 +1,103 @@
+/**
+* All of the CSS for your admin woocommerce relation specific functionality should be
+* included in this file.
+*/
+.rtwvsmlw_upload_term_img_text_class{
+    width: 60px;
+    height: 60px;
+}
+.rtwvsmlw_variation_swatches_setting_color_table_wrapper{
+    box-shadow: 6px 11px 41px -10px #a99de7;
+    border-radius: 10px;
+}
+.rtwvsmlw_action_color_btns{
+    border: 0;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+    width: 100%;
+}
+.rtwvsmlw_clone_td{
+    background-color: #53b953
+}
+.rtwvsmlw_remove_td{
+    background-color: #e24646;
+}
+#rtwvsmlw_color_table .wp-picker-container, #rtwvsmlw_color_table .wp-picker-container button{
+    width: 100%;
+}
+#rtwvsmlw_color_table .wp-picker-container button{
+    margin: 0;
+}
+.rtwvsmlw_variation_swatches_setting_color_table_wrapper .rtwvsmlw_variation_heading{
+    border-bottom: 1px solid #87767652;
+}
+.rtwvsmlw_variation_heading label{
+    font-size: 17px;
+}
+.rtwvsmlw_variation_swatches_setting_color_table_wrapper th{
+    padding: 15px;
+}
+.rtwvsmlw_color_table_wrapper {
+    height: 275px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.rtwvsmlw_color_table_wrapper::-webkit-scrollbar {
+    width: 10px;
+}
+.rtwvsmlw_variation_swatches_setting_color_table_wrapper,#rtwvsmlw_color_table{
+    width: 100%;
+}
+
+.rtwvsmlw_color_table_wrapper::-webkit-scrollbar-track{
+    background: #f1f1f1;
+}
+
+.rtwvsmlw_color_table_wrapper::-webkit-scrollbar-thumb {
+    background-color: #c1c1c1;
+    border-radius: 20px;
+    border: 2px solid #f1f1f1;
+}
+#rtwvsmlw_color_table {
+    padding-right: 1rem;
+}
+
+@media(max-width:992px){
+    #rtwvsmlw_color_table .rtwvsmlw_actn_td,.rtwvsmlw_variation_swatches_setting_color_table_wrapper th{
+        display: table-cell;
+        vertical-align: top;
+    }
+    #rtwvsmlw_color_table{
+        padding: 10px;
+    }
+    
+    #rtwvsmlw_color_table .wp-picker-container button{
+        margin : 0;
+    }
+    .rtwvsmlw_variation_swatches_setting_color_table_wrapper .rtwvsmlw_select_td_color_seperator{
+        padding: 0 15px 15px 15px;
+    }
+    .rtwvsmlw_action_color_btns{
+        width: 80%;
+    }
+    #rtwvsmlw_color_table .wp-picker-container{
+        width:95%;
+    }
+    
+}
+
+@media(max-width:576px){
+    .rtwvsmlw_action_color_btns{
+        width: 100%;
+    }
+    #rtwvsmlw_color_table .wp-picker-container{
+        width:100%;
+    }
+    .rtwvsmlw_variation_swatches_setting_color_table_wrapper th{
+        display: block;
+    }
+    
+}
+/* ////////////////////// */

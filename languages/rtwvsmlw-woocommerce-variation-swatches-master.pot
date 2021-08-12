@@ -1,0 +1,723 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Variation Swatches Master-1.0.0\n"
+"POT-Creation-Date: 2021-08-11 18:53+0530\n"
+"PO-Revision-Date: 2021-04-20 16:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: RedefiningTheWeb(developer@redefiningtheweb.com)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:22
+msgid "Hello, "
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:33
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:20
+msgid "Variations Swatches"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:38
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:43
+msgid "Shop Page Variations"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:48
+msgid "Global attributes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:53
+msgid "Custom attributes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:58
+msgid "Attributes Settings"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:63
+msgid "Compare with Pro"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:80
+msgid "WooCommerce Variation Swatches Master"
+msgstr ""
+
+#: admin/partials/rtwvsmlw-variation-swatches-lite-for-woocommerce-admin-display.php:84
+msgid "Return to WordPress"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:19
+msgid "Advance settings"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:23
+msgid "Display Border on Selected Variation"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:39
+msgid "Enable to display border on selected attribute"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:43
+msgid "hide add to card on shop page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:59
+msgid "Enable to Hide add to cart button from shop page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:59
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:73
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:85
+msgid "(Pro feature)"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:63
+msgid "attribute behaviour"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:73
+msgid "Blur with cross "
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:84
+msgid "Blur without cross "
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:96
+msgid "Hide"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:98
+msgid "Disabled attribute will be hide / blur."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:99
+msgid "Note: Product variation loaded via ajax might affect this feature"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:102
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:107
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:110
+msgid "width"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:113
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:121
+msgid "Variation item width"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:116
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:121
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:124
+msgid "height"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:127
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:135
+msgid "Variation item height"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:130
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:135
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:138
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:143
+msgid "font size"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:141
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:149
+msgid "Single product variation item font size"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-advanced-variation.php:162
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:16
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:21
+msgid "Get Pro now"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:16
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:21
+msgid "This feature is available in Pro version"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:21
+msgid "Custom Attribute"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:32
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:54
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:109
+msgid "Name"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:43
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:98
+msgid "submit"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:55
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:110
+msgid "Action"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:71
+msgid "Add New Value"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:78
+msgid "Select Attribute"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-custom-variation.php:87
+msgid "enter value"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:157
+msgid "save"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:165
+msgid "Display Type"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:167
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:254
+msgid "Button"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:168
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:242
+msgid "Color"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:169
+msgid "Image (Pro Feature)"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:170
+msgid "Radio (Pro Feature)"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:171
+msgid "Theme Default"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:175
+msgid "swatches profile"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:177
+msgid "button design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:178
+msgid "color design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:179
+msgid "image design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:269
+msgid "choose an image"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:276
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:131
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:721
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:103
+msgid "Upload Image"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:366
+msgid "color seperator"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:368
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:374
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:443
+msgid "Horizontal"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:369
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:371
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:440
+msgid "Vertical"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:370
+msgid "Diagonal Left"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:371
+msgid "Diagonal Right"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:372
+msgid "Border Horizontal"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:373
+msgid "Border Vertical"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:374
+msgid "Border Diagonal Left"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:375
+msgid "Border Diagonal Right"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:388
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:417
+msgid "color"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:394
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:423
+msgid "action"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:399
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:428
+msgid "clone"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:404
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-global-variation.php:433
+msgid "remove"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:23
+msgid "shop page variation"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:27
+msgid "Enable Swatches Variation"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:42
+msgid "Enable to show Swatches on shop / archive page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:46
+msgid "display behaviour"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:56
+msgid "Before add to cart button"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:67
+msgid "after add to cart button"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:69
+msgid "Show archive swatches position."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:70
+msgid ""
+"Note: Some theme remove default woocommerce hooks that why it's may "
+"not work each theme."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:73
+msgid "Enable tooltip"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:86
+msgid "Show tooltip on shop / archive page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:90
+msgid "Show clear link"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:106
+msgid "Show clear link on archive / shop page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:115
+msgid "item Width"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:129
+msgid "item height"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-shop-page-variation.php:158
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:128
+msgid "save changes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:24
+msgid "Enable Swatches variations"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:40
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:72
+msgid "Enable Swatches Variation on Product Page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:45
+msgid "Enable Tooltip"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:60
+msgid "Enable tooltip on each product attribute"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:65
+msgid "Show Attribute Label"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:81
+msgid "Show attribute label on shop and product page."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-admin-simple-variation.php:86
+msgid "shape style"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:15
+msgid "Comparison with Pro"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:18
+msgid "Make a smart move with Premium"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:19
+msgid ""
+"Pro version nnhance the visual aesthetics of your products and the "
+"attributes of a variation to bestow an appealing look to your product "
+"page. It is a feature-packed extension to get a neat, polished, and "
+"sophisticated look for all variations on your WooCommerce store pages."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:20
+msgid ""
+"Select a preferred style for the variations from several options "
+"grouped under different categories- color, images, buttons, and radio."
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:26
+msgid "Lite"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:27
+msgid "Pro"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:27
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:140
+msgid "Get Now"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:32
+msgid "Price"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:33
+msgid "0"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:35
+msgid "39"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:36
+msgid "9"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:37
+msgid "Featured Item on CodeCanyon"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:41
+msgid "Get started easily"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:44
+msgid "Includes free updates and new features as they become available"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:49
+msgid "24 * 7 Support Availability"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:54
+msgid "Features"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:57
+msgid "Display Color Design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:62
+msgid "Display Button Design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:67
+msgid "Display Image Design"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:77
+msgid "Enable Swatches Variation on Shop Page"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:82
+msgid "Single Color Swatches"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:87
+msgid "Multi Color Swatches"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:92
+msgid "Image Type Swatches"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:97
+msgid "Hide Unavailable Attributes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:102
+msgid "Blur with Cross Unavailable Attributes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:107
+msgid "Blur without Corss Unavailable Attributes"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:112
+msgid "Custom Attributes Settings"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:117
+msgid "Compatibility with Mercado"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:122
+msgid "Featured Item on Codecanyon"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:127
+msgid "Rounded Shape Style"
+msgstr ""
+
+#: admin/partials/rtwvsmlw_admin_tabs/rtwvsmlw-compare-pro.php:132
+msgid "Square Shape Style"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:129
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:101
+msgid "Setting Saved Successfully"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:130
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:102
+msgid "Some error"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:132
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:104
+msgid "Change Image"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:133
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:105
+msgid "Select Image"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:134
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:106
+msgid "Select"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:135
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:107
+msgid "Choose an Image"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:136
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:638
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:648
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:108
+msgid "Clone"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:137
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:639
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:649
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:109
+msgid "Remove"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:138
+msgid "Update"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:139
+msgid "Deleted"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:205
+msgid "Variation Swatches Master Lite"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:246
+msgid "Image (Pro feature)"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:250
+msgid "Radio"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:324
+msgid "Select Color : "
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:326
+msgid ""
+"Choose color for the term (which will appeare on shop page for this "
+"term)"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:334
+msgid "Display Text : "
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:336
+msgid ""
+"Enter text to display on the place of name(eg. you can enter S,M,L at "
+"the namee of Small, Medium, Large), you can also enter text for buttons"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:355
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:411
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:619
+msgid "Variation Swatches settings"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:361
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:418
+msgid "Show in product list"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:363
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:428
+msgid "Enable this if you want this attribute to show in product list."
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:367
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:434
+msgid "Display style"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:380
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:451
+msgid "Design profile"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:383
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:456
+msgid "Button Design"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:384
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:457
+msgid "Color Design"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:385
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:458
+msgid "Image Design"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:623
+msgid "Select Color"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:660
+msgid "Color Separator"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:673
+msgid "Basic horizontal"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:676
+msgid "Basic vertical"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:679
+msgid "Basic diagonal left"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:682
+msgid "Basic diagonal right"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:685
+msgid "Hard lines horizontal"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:688
+msgid "Hard lines vertical"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:691
+msgid "Hard lines diagonal left"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:694
+msgid "Hard lines diagonal right"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:716
+msgid "Choose Image"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:722
+msgid "Remove Image"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:723
+msgid ""
+"Choose image for the term(which will appeare on shop page for this "
+"term) "
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:739
+msgid "Display Text"
+msgstr ""
+
+#: admin/rtwvsmlw-class-woocommerce-variation-swatches-master-admin.php:743
+msgid ""
+"Enter text to display on the place of name (eg. you can enter S,M,L at "
+"the name of Small, Medium, Large), you can also enter text for buttons"
+msgstr ""
+
+#: public/rtwvsmlw-class-woocommerce-variation-swatches-master-public.php:261
+msgid "Clear"
+msgstr ""
