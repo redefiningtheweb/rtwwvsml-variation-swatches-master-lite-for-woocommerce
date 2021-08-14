@@ -18,7 +18,9 @@ body{
 	color: #384c6d;
 	font-size: 14px;
 }
-
+#rtwvsmlw_attr_imgges {
+    position: inherit;
+}
 .rtwvsmlw-setting-tabs .form-table td input[type="text"],
 .rtwvsmlw-setting-tabs .form-table td select {
 	padding: 0.6rem .75rem !important;
